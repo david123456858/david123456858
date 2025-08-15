@@ -119,7 +119,7 @@
 **🤝 Team Collaboration Project**
 > Contributing to a collaborative software development project, working alongside other talented developers to build robust solutions.
 
-** My Contributions:**
+**My Contributions:**
 -  Backend development and architecture
 -  Bug fixes and code optimization
 -  Code review and documentation
