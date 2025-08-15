@@ -56,14 +56,14 @@
 
 ## 💼 My Robust Projects
 
-<div align="center">
+<div align="left">
 
 ###  [StorageMultimedia](https://github.com/david123456858/StorageMultimedia)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/david123456858/StorageMultimedia)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/david123456858/StorageMultimedia)
 [![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)](https://github.com/david123456858/StorageMultimedia)
 
-** Multimedia Storage Backend with Clean Architecture**
+**Multimedia Storage Backend with Clean Architecture**
 > Advanced FastAPI backend implementing Clean Architecture, SOLID principles, and design patterns. Features user management and multimedia file storage with Cloudinary integration and Turso database.
 
 **✨ Key Features:**
