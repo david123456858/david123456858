@@ -147,7 +147,7 @@
 ## Links:
 <!--[![Website](https://img.shields.io/badge/Website-INGCapaDev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://ingcapadev.com)-->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@JuanPeralta-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](www.linkedin.com/in/juan-david-peralta-fuentes-a7a944268)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@JuanPeralta-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-david-peralta-fuentes-a7a944268/)
 
 
 ## Contact:
