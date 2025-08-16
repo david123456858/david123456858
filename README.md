@@ -136,7 +136,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=@david123456858&theme=slateorange&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=david123456858&theme=slateorange&hide_border=true)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=david123456858&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=david123456858&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false)<br/>
@@ -147,7 +147,7 @@
 ## Links:
 <!--[![Website](https://img.shields.io/badge/Website-INGCapaDev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://ingcapadev.com)-->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AlvaroCapaceta-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ingcapadev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@JuanPeralta-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](www.linkedin.com/in/juan-david-peralta-fuentes-a7a944268)
 
 
 ## Contact:
